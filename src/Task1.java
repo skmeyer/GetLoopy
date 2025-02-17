@@ -5,6 +5,5 @@ public class Task1 {
         {
             System.out.print(" | " + n);
         }
-        System.out.println("\n");
     }
 }

@@ -24,6 +24,5 @@ public class DieRoller
         }
         System.out.println("----------------------------------------");
 
-
     }
 }
